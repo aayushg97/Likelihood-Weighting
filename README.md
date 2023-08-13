@@ -12,7 +12,7 @@ where $0 < \alpha < 1$ is a parameter measuring the amount of noise in the conve
 
 ## Probability Estimation
 
-Consider a network with $n= 10$ bits and noise level $\alpha=0.1$. Probability estimates $P(B_i\!=\!1|Z\!=\!128)$ for $i\in\{2,5,8,10\}$ using the method of ${\it likelihood\ weighting}$ are as follows:
+Consider a network with $n= 10$ bits and noise level $\alpha=0.1$. Probability estimates $P(B_i=1|Z=128)$ for $i\in\\{2,5,8,10\\}$ using the method of ${\it likelihood\ weighting}$ are as follows:
 
 <div align="center">
   
